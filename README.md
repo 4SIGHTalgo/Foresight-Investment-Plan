@@ -1,6 +1,6 @@
-[![Preview of UMD external work](UMD_external_work_preview.png)](UMD%20external%20work.pdf)
+[![A detailed investor brief for onboarding capital](UMD_external_work_preview.png)](UMD%20external%20work.pdf)
 
-[![Preview of UMD external work](UMD_external_work_preview2.png)](UMD%20external%20work.pdf)
+[![A detailed explanation of Market Neutral, Mean Reversion / Momentum Multi Strategy](UMD_external_work_preview2.png)](UMD%20external%20work.pdf)
 
 
 ![IMG_0970](https://github.com/user-attachments/assets/2ccffff0-e91f-43ff-9951-75ac39d45405)
