@@ -33,11 +33,8 @@ Key ratios highlighting strategy stability across market cycles
 
 
 📚 Contents
-MLP_Stat_Arb.mq5 – Multi-layer perceptron version scanning all major FX crosses
 
-EA_Correlation.mq5 – Traditional correlation-based benchmark
-
-docs/UMD_external_work.pdf – Full investor deck and strategy explanation
+PDFs for full investor deck and strategy explanation
 
 images/ – Backtest graphs and preview thumbnails
 
