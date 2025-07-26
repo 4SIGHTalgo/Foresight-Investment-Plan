@@ -1,16 +1,3 @@
-[![Capital Onboarding Overview (PDF)](UMD_external_work_preview.png)](UMD%20external%20work.pdf)
-
-[![Market Neutral Multi-Strategy (PDF)](UMD_external_work_preview2.png)](UMD%20external%20work.pdf)
-
-
-The following images are a 5-year stress test showing the equity curve & important ratios of the multi-strategy mentioned above.
-
-![IMG_0970](https://github.com/user-attachments/assets/2ccffff0-e91f-43ff-9951-75ac39d45405)
-![IMG_0971](https://github.com/user-attachments/assets/b3f7c411-d5f1-48d0-88fd-008b7e9c0ef5)
-
-
-
-
 Strategy Overview & Supporting Documentation
 
 This repository presents a market-neutral, multi-strategy framework that combines mean reversion and momentum techniques across major FX pairs. The approach is designed to identify statistical mispricings and persistent trends through disciplined execution, diversification, and risk-controlled capital allocation.
