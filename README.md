@@ -13,9 +13,6 @@ View: Investor Brief – [![Capital Onboarding Overview (PDF)](UMD_external_work
 This brief outlines the investment philosophy, execution infrastructure, and risk controls governing the trading system.
 
 
-View: Strategy Deep Dive – [![Market Neutral Multi-Strategy (PDF)](UMD_external_work_preview2.png)](UMD%20external%20work.pdf)
-
-This document provides a technical walkthrough of the mean reversion and momentum signals, portfolio construction logic, and deployment considerations.
 
 📈 5-Year Historical Backtest & Stress Test Results
 Below are performance snapshots from a 5-year historical stress test, including the equity curve, Sharpe ratio, drawdown, and trade distribution statistics.
